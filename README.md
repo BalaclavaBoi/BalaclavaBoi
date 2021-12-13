@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BalaclavaBoi
+- 👀 I’m interested in Waldo-AntiCheat
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on Waldo-AntiCheat
+- 📫 How to reach me(DON'T)
